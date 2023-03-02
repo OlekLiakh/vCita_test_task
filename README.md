@@ -1,3 +1,6 @@
+#Link to Google Tables with test cases
+https://docs.google.com/spreadsheets/d/1K5gMqZlCIUWr4VXPBibFpBih-VVHDy-tnRIt6s0bIMo/edit?usp=sharing
+
 ## vCita_test_task
 Project was created as a test for vacation on position QA automation
 
