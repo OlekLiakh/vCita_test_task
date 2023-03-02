@@ -1,14 +1,15 @@
 {
   "name": "wisestamp",
   "version": "1.0.0",
-  "description": "",
+  "description": "A test work",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "testWithChrome": "node node_modules/nightwatch/bin/runner.js --env chrome  tests/testSuit/TC_003.js",
+    "testWithFirefox": "node node_modules/nightwatch/bin/runner.js --env firefox  tests/testSuit/TC_003.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Oleksandr Liakh",
+  "license": "",
   "devDependencies": {
     "chromedriver": "^110.0.0",
     "geckodriver": "^3.2.0",

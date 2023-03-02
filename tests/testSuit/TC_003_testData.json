@@ -1,0 +1,32 @@
+[{
+    "point": "1",
+    "fontSize": {
+        "name": "15px",
+        "company": "12px",
+        "phone": "10px"
+    }
+},
+{
+    "point": "3",
+    "fontSize": {
+        "name": "18px",
+        "company": "14px",
+        "phone": "12px"
+    }
+},
+{
+    "point": "4",
+    "fontSize": {
+        "name": "20px",
+        "company": "16px",
+        "phone": "13px"
+    }
+},
+{
+    "point": "5",
+    "fontSize": {
+        "name": "21px",
+        "company": "17px",
+        "phone": "14px"
+    }
+}]
