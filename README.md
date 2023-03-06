@@ -39,3 +39,5 @@ npm run testWithFirefox
 ```bash
 npx nightwatch tests/testSuit/TC_003.js --env chrome
 ```
+# Report
+Reports are available after every run and can be found in folder ../vCita_test_task/tests_output
