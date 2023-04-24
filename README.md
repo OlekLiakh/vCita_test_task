@@ -1,4 +1,4 @@
-#Link to Google Tables with test cases
+# Link to Google Tables with test cases
 https://docs.google.com/spreadsheets/d/1K5gMqZlCIUWr4VXPBibFpBih-VVHDy-tnRIt6s0bIMo/edit?usp=sharing
 
 ## vCita_test_task
@@ -39,3 +39,5 @@ npm run testWithFirefox
 ```bash
 npx nightwatch tests/testSuit/TC_003.js --env chrome
 ```
+# Report
+Reports are available after every run and can be found in folder ../vCita_test_task/tests_output
