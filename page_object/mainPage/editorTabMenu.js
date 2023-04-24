@@ -1,4 +1,5 @@
 const slider = require("../elements/slider")
+const colorPicker = require("../elements/colorPicker")
 const logMessage = require("../../static/logMessages/verifyMessage")
 
 const dynamicSelector = {
@@ -26,5 +27,5 @@ module.exports = {
     elements: {
         activeTab: 'editor-tab-menu-item-active'
     },
-    sections: {slider}
+    sections: {slider, colorPicker}
 }

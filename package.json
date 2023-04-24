@@ -11,7 +11,7 @@
   "author": "Oleksandr Liakh",
   "license": "",
   "devDependencies": {
-    "chromedriver": "^110.0.0",
+    "chromedriver": "^112.0.0",
     "geckodriver": "^3.2.0",
     "nightwatch": "^2.6.15"
   }
